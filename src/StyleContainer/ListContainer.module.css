@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  padding: 1%;
+  padding-left: 5%;
+}
+
+.listContainer {
+  display: flex;
+  flex-direction: row;
+  margin-top: 1%;
+  background-color: #FFFFFF;
+  justify-content: space-between;
+  padding-top: 1%;
+  padding-left: 5%;
+  padding-right: 3%;
+  align-items: center;
+}

@@ -1,0 +1,13 @@
+.innerContainer {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  padding: 5%;
+  height: 35vh;
+  justify-content: space-around;
+  background-color: #ffffff;
+}
+
+.input {
+  padding: 3%;
+}

@@ -1,0 +1,39 @@
+.mainContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  /* min-height: 100vh; */
+  /* background-color: aqua; */
+}
+
+.leftContainer {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  height: 40vh;
+  padding-left: 3%;
+  padding-top: 3%;
+  align-items: flex-end;
+}
+
+.rightContainer {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  padding-top: 3%;
+}
+
+.innerContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 5%;
+  width: 70%;
+  height: 35vh;
+  justify-content: space-around;
+  background-color: #ffffff;
+}
+
+.input {
+  padding: 3%;
+}
